@@ -10,4 +10,4 @@ Will run both BE and FE
 
 ### FE location will be: [http://localhost:3000](http://localhost:3000)
 
-BE location will be: [http://localhost:8000](http://localhost:8000)
+### BE location will be: [http://localhost:8000](http://localhost:8000) for testing if the BE is running check [http://localhost:8000/blogs](http://localhost:8000/blogs)
