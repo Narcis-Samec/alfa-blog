@@ -8,5 +8,6 @@ Will install the application
 
 Will run both BE and FE
 
-FE location will be: [http://localhost:3000](http://localhost:3000)
+### FE location will be: [http://localhost:3000](http://localhost:3000)
+
 BE location will be: [http://localhost:8000](http://localhost:8000)
